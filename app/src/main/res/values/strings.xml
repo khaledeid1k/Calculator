@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="binary">Binary</string>
+    <string name="decimal">Decimal</string>
+    <string name="octal">Octal</string>
+    <string name="hexDecimal">HexDecimal</string>
+    <string name="convert_to">Convert To</string>
+    <string name="convert_from">Convert From</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="convert">Convert</string>
+    <string name="TestNumber">51651456</string>
+    <string name="result">Result</string>
+    <string-array name="number">
+        <item>Binary</item>
+        <item>Decimal</item>
+        <item>Octal</item>
+        <item>HexDecimal</item>
+    </string-array>
+</resources>
