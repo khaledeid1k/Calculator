@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeOFConverter">170dp</dimen>
+    <dimen name="marginVOfConverter">5dp</dimen>
+    <dimen name="marginOfResult">10dp</dimen>
+    <dimen name="marginHOfConverter">50dp</dimen>
+    <dimen name="marginVEditeOfEnterData">10dp</dimen>
+    <dimen name="ButtonConverterWidth">277dp</dimen>
+    <dimen name="ButtonConverterHeight">60dp</dimen>
+    <dimen name="sizeResultText">40sp</dimen>
+    <dimen name="result">30sp</dimen>
+</resources>
