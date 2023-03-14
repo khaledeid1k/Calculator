@@ -10,6 +10,7 @@
     <string name="convert">Convert</string>
     <string name="TestNumber">51651456</string>
     <string name="result">Result</string>
+    <string name="hintEnterData">Required*</string>
     <string-array name="number">
         <item>Binary</item>
         <item>Decimal</item>
